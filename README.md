@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./banner.png" alt="Law's GitHub Banner" width="100%" />
+  <img src="./banner.png" alt="Law's GitHub Banner" width="1600" height="360" />
 </p>
 
 <p align="center">
   <a href="https://github.com/buynao">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Law;Frontend+%C2%B7+AI+%C2%B7+Blockchain;Build%2C+Learn+%26+Share" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=520&height=50&lines=Hi%2C+I'm+Law;Frontend+%C2%B7+AI+%C2%B7+Blockchain;Build%2C+Learn+%26+Share" alt="Typing SVG" width="520" height="50" />
   </a>
 </p>
 
@@ -13,7 +13,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=buynao&show_icons=true&count_private=true&hide_rank=true&theme=github_dark&hide_border=false" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=buynao&show_icons=true&count_private=true&hide_rank=true&theme=default&hide_border=false" />
-      <img src="https://github-readme-stats.vercel.app/api?username=buynao&show_icons=true&count_private=true&hide_rank=true" alt="Law's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=buynao&show_icons=true&count_private=true&hide_rank=true" alt="Law's GitHub Stats" height="195" />
     </picture>
   </a>
 </p>
