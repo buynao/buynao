@@ -11,9 +11,9 @@
 <p align="center">
   <a href="https://github.com/buynao">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=buynao&show_icons=true&count_private=true&hide_rank=true&theme=github_dark&hide_border=false" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=buynao&show_icons=true&count_private=true&hide_rank=true&theme=default&hide_border=false" />
-      <img src="https://github-readme-stats.vercel.app/api?username=buynao&show_icons=true&count_private=true&hide_rank=true" alt="Law's GitHub Stats" height="195" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=buynao&show_icons=true&count_private=true&hide_rank=true&hide=prs,contribs&theme=github_dark&hide_border=false" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=buynao&show_icons=true&count_private=true&hide_rank=true&hide=prs,contribs&theme=default&hide_border=false" />
+      <img src="https://github-readme-stats.vercel.app/api?username=buynao&show_icons=true&count_private=true&hide_rank=true&hide=prs,contribs" alt="Law's GitHub Stats" height="145" />
     </picture>
   </a>
 </p>
