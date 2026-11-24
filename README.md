@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./banner.png" alt="Law's GitHub Banner" width="1600" height="360" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buynao/buynao/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buynao/buynao/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/buynao/buynao/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" width="880" height="192" />
+  </picture>
 </p>
 
 <p align="center">
