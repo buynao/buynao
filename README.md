@@ -6,11 +6,9 @@
   </picture>
 </p>
 
-<p align="center">
-  <a href="https://github.com/buynao">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=520&height=50&lines=Hi%2C+I'm+Law;Frontend+%C2%B7+AI+%C2%B7+Blockchain;Build%2C+Learn+%26+Share" alt="Typing SVG" width="520" height="50" />
-  </a>
-</p>
+<h3 align="center">Hi, I'm Law 👋</h3>
+
+<p align="center">Frontend · AI · Blockchain</p>
 
 <p align="center">
   <a href="https://github.com/buynao">
